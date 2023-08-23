@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Sprint10koh8</string>
+    <string name="action_retry">Повторить</string>
+    <string name="title_error">Ошибка</string>
 </resources>
